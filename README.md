@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/tanucs" target="blank"><img src="https://img.shields.io/twitter/follow/tanucs?logo=twitter&style=for-the-badge" alt="tanucs" /></a> </p>
 
-- 🔭 I’m currently working on [📊 UPI Transactions Analysis (Power BI)](https://github.com/tanucs)
+- 🔭 I’m currently working on [📊 UPI Transactions Analysis (Power BI)](https://github.com/tanucs/UPI-Transaction-Analysis-Dashboard)
 
 - 🌱 I’m currently learning **Advanced SQL (Joins, CTEs, Window Functions),Power BI (DAX, Data Modeling)**
 
